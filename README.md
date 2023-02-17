@@ -1,2 +1,2 @@
 # Guia-PSeudocodigo-2
-Guia  - Ejercicios PSeudocodigo referente a fundamentos de programación - IPCHILE Sede Republica
+Guia 2 - Ejercicios PSeudocodigo referente a fundamentos de programación - IPCHILE Sede Republica
